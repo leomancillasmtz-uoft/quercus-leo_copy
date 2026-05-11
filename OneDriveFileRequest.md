@@ -3,13 +3,20 @@ A&S Teaching & Learning (teachinglearning.artsci@utoronto.ca)
 
 In larger courses it may be more practical to use Microsoft OneDrive rather than email to collect student work. Microsoft OneDrive includes a “File Request” feature that allows you to distribute a ‘drop box’ link for students to upload work. The name of each student (but not their student number or UTORid) will be prepended to each file name.
 
-> Note: Students will be asked to enter their name when submitting a file, it will not be automatically filled in for them. Request that they use their name as it appears on Quercus if possible to make it easy to identify who submitted the material. If you need an alternative submission method that ensures work is connected to a student's U of T email, create a Microsoft Form
+> Note: Students will be asked to enter their name when submitting a file, it will not be automatically filled in for them. Request that they use their name as it appears on Quercus if possible to make it easy to identify who submitted the material. If you need an alternative submission method that ensures work is connected to a student's U of T email, use the 'File Upload' question in a Microsoft Form
 
 ### Key features:
 * Students cannot see the contents of the folder
 * Students can upload multiple files
 * Students will be prompted to enter their name which will be prepended to each uploaded file
 * Student can upload the same file multiple times and a number will be appended to the file name, all versions will be visible in the destination folder.
+
+### Main Caveat
+* Students enter their names; if they do this incorrectly it may be hard to identify submissions.
+
+### Best for
+Low to medium volume submissions in a small to medium course where you want to avoid emailed and want the option to share the folder content in real time with a TA or co-instructor.
+
 
 ## To Set up File Requests
 1. 	Navigate to https://utoronto-my.sharepoint.com/ to access your OneDrive
