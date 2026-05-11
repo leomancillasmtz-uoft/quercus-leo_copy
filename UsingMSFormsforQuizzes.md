@@ -1,4 +1,4 @@
-# Using MS Forms Quizzes
+# Using MS Forms for Quizzes
 
 A&S Teaching & Learning (teachinglearning.artsci@utoronto.ca)
 
@@ -13,20 +13,21 @@ A&S Teaching & Learning (teachinglearning.artsci@utoronto.ca)
         * Uploaded files are found in 'Your OneDrive/Apps/Microsoft Forms/'
         * Student's names are appended to submitted files names
 2. Ability to shuffle questions
+2. Practice and 'reveal answers immediately' features for formative quizzing
 3. Start date, End date and Set time duration features
     * The equivalent of 'Available From', 'Available Until', 'Time Limit' in Quercus
 4. Allows respondents to save their submissions
 5. Optional email notifications of submissions
-6. You can add collaborators/editors to your quiz or share it as a template
+6. You can [add collaborators/editors to your quiz or share it as a template](https://support.microsoft.com/en-us/forms/share-a-form-or-quiz-to-collaborate)
 7. There is a basic grading interface for questions that need human review
     * you can add comments for feedback though we don't recommend committing to this temporary quizzing platform, any comments you add can be exported
     * you can grade by-question or by-quiz
 
 ### Distribution
-* Quizzes can force students to log in using their UTORid so all responses are identifiable 
+* Quizzes can force students to log in using their UTORid so all responses are identifiable
 * Distribute your quizzes by sharing the (optionally shortened) URL
     * There **is** a feature to limit access to only named individuals, but the interface does not accept a list of student emails so we've found this to be impractical
-* Do not use the built-in email tool to distribute your quiz - use a BCC email instead - the built-in tool will expose email addresses to all recipients
+* Do not use the built-in email tool to distribute your quiz - use [a BCC email](https://support.microsoft.com/en-us/office/show-hide-and-view-the-bcc-blind-carbon-copy-field-in-outlook-for-windows-04304e27-63a2-4276-8884-5077fba0e229) instead - the built-in tool will expose email addresses to all recipients
 
 ### Creating a Quiz
 
@@ -51,9 +52,11 @@ The key to successful quiz on Forms is to configure the settings to mimic Quercu
 
 Unchecking "Accept responses" allows you to close the quiz manually. If the timer elapses, in-progress responses are auto-submitted. We also allow students to save their responses for their review.
 
-<div align="center"><img src="image-10.png" alt="Onle people in University of Toronto can respond" width="33%"></div>
+<div align="center"><img src="image-10.png" alt="Only people in University of Toronto can respond" width="33%"></div>
 
 <div align="center"><img src="image-11.png" alt="Options for responses settings pane in MS Forms" width="33%"></div>
+
+> [Read more about quiz settings from Microsoft](https://support.microsoft.com/en-us/office/adjust-your-form-or-quiz-settings-in-microsoft-forms-f255a4ba-e03c-4e12-b880-f7e8b62e0665#bkmk_quizonlysettings)
 
 ### Grading
 
