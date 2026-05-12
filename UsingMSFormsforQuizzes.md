@@ -80,4 +80,4 @@ You can choose between by-quiz and by-question grading by toggling between 'Peop
 There is no automated connection to get grades back to Quercus, you will have to import the grades manually (but [we](mailto:teachinglearning.artsci@utoronto.ca) can help with this). You can import grades using a [gradebook export/import process](https://q.utoronto.ca/courses/242937/pages/using-the-gradebook#importing-and-exporting-the-gradebook) in Quercus.
 
 #### Info
-Contact teachinglearning.artsci@utoronto.ca for additional help.
+Contact [teachinglearning.artsci@utoronto.ca](mailto:teachinglearning.artsci@utoronto.ca) for additional help.

@@ -46,4 +46,4 @@ Under the "Links" tab in Manage Access, you can review, edit or delete the permi
 <div align="center"><img src="image-22.png" width="50%"></div>
 
 #### Info
-Contact teachinglearning.artsci@utoronto.ca for additional help.
+Contact [teachinglearning.artsci@utoronto.ca](mailto:teachinglearning.artsci@utoronto.ca) for additional help.
