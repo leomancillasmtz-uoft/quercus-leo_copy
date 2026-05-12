@@ -1,4 +1,4 @@
-# Sharing OneDrive Folders to U of T Users
+# Sharing Content Using OneDrive to U of T Users
 
 A&S Teaching & Learning (teachinglearning.artsci@utoronto.ca)
 
