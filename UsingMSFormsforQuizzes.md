@@ -76,3 +76,6 @@ You can choose between by-quiz and by-question grading by toggling between 'Peop
 
 ### Caveats
 There is no connection back to Quercus, you will have to import the grades manually (but [we](mailto:teachinglearning.artsci@utoronto.ca) can help with this).
+
+#### Info
+Contact teachinglearning.artsci@utoronto.ca for additional help.
