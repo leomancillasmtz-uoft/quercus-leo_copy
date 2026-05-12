@@ -4,12 +4,14 @@ A&S Teaching & Learning (teachinglearning.artsci@utoronto.ca)
 
 [Microsoft Forms](https://forms.cloud.microsoft) includes quizzing capability. It is not as extensive as the quiz tools in Quercus, but it offers multiple choice, text-entry, file upload, ranking question types. You can also embed images or video in question prompts. There is a 'by-quiz' or 'by-question' grading interface and all results can be viewed in a live spreadsheet or exported.
 
+> **Note:** you can use [MS Forms to accept files](https://support.microsoft.com/en-us/office/add-questions-that-allow-for-file-uploads-in-microsoft-forms-6a75a658-c02b-450e-b119-d068f3cba4cf) from students in lieu of Quercus' assignment function - just set up a single question quiz with a "File upload" question; all submissions will have student names (derived from their actual M365 accounts) appended to the uploaded files in your OneDrive folder. You can find uploaded files from quizzes in your OneDrive in the **Apps -> Microsoft Forms [Quiz Name] subfolder**.
+
 ### Relevant Features
-1. Question Types:
+1. **Question Types:**
     * Multiple Choice and Multiple Answer
     * Text Entry
     * Ranking
-    * File Upload
+    * **File Upload**
         * Uploaded files are found in 'Your OneDrive/Apps/Microsoft Forms/'
         * Student's names are appended to submitted files names
 2. Ability to shuffle questions
@@ -74,8 +76,8 @@ You can choose between by-quiz and by-question grading by toggling between 'Peop
 
 <div align="center"><img src ="image-14.png" alt="View responses button in MS Forms" width="100%"></div>
 
-### Caveats
-There is no connection back to Quercus, you will have to import the grades manually (but [we](mailto:teachinglearning.artsci@utoronto.ca) can help with this).
+### Importing grades to Quercus
+There is no automated connection to get grades back to Quercus, you will have to import the grades manually (but [we](mailto:teachinglearning.artsci@utoronto.ca) can help with this). You can import grades using a [gradebook export/import process](https://q.utoronto.ca/courses/242937/pages/using-the-gradebook#importing-and-exporting-the-gradebook) in Quercus.
 
 #### Info
 Contact teachinglearning.artsci@utoronto.ca for additional help.
