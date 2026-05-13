@@ -25,26 +25,6 @@ A&S Teaching & Learning (teachinglearning.artsci@utoronto.ca)
     * you can add comments for feedback though we don't recommend committing to this temporary quizzing platform, any comments you add can be exported
     * you can grade by-question or by-quiz
 
-### Distribution
-
-To distribute a quiz, click **Collect Repsonses** at the top of the interface.
-<div align="center"><img src="image-25.png" alt="Collect Responses button in MS Forms" width="15%"></div>
-
->Do not distribute the long URL you see in your address bar while editing a quiz, it will not work for recipients.
-
-In the modal window that appears, you can optionally shorten URL (recommended) and **Copy link** for distribution:
-
-<div align="center"><img src="image-26.png" alt="Configure distribution parameters for an MS Forms Quiz" width="100%"></div>
-
-In this example, we're ensuring respondents are logged into with their UTORids and that only one response is accepted per recipient.
-
-You can also generate a QR code for the URL and download it if you'd like to run your quiz in-person. Note some students will not have phones - the shortened URL will make it easier for those without phones to access the quiz.
-
-* Quizzes can force students to log in using their UTORid (via Only people in University of Toronto can repsond) so all responses are identifiable
-* Distribute your quizzes by sharing the (optionally shortened) URL
-    * There **is** a feature to limit access to only named individuals, but the interface does not accept a list of student emails so we've found this to be impractical
-* Do not use the built-in email tool to distribute your quiz - use [a BCC email](https://support.microsoft.com/en-us/office/show-hide-and-view-the-bcc-blind-carbon-copy-field-in-outlook-for-windows-04304e27-63a2-4276-8884-5077fba0e229) instead - the built-in tool will expose email addresses to all recipients
-
 ### Creating a Quiz
 
 Creating quizzes in Forms is intuitive and familiar coming from Quercus. Create a new quiz and add questions, your progress is auto-saved.
@@ -74,6 +54,26 @@ Unchecking "Accept responses" allows you to close the quiz manually. If the time
 
 > [Read more about quiz settings from Microsoft](https://support.microsoft.com/en-us/office/adjust-your-form-or-quiz-settings-in-microsoft-forms-f255a4ba-e03c-4e12-b880-f7e8b62e0665#bkmk_quizonlysettings)
 
+### Distribution
+
+To distribute a quiz, click **Collect Responses** at the top of the interface.
+<div align="center"><img src="image-25.png" alt="Collect Responses button in MS Forms" width="15%"></div>
+
+>Do not distribute the long URL you see in your address bar while editing a quiz, it will not work for recipients.
+
+In the modal window that appears after clicking **Collect Responses**, optionally shorten URL (recommended) and click **Copy link** for distribution:
+
+<div align="center"><img src="image-26.png" alt="Configure distribution parameters for an MS Forms Quiz" width="100%"></div>
+
+In this example, we're ensuring respondents are logged into with their UTORids and that only one response is accepted per recipient.
+
+You can also generate a QR code for the URL and download it if you'd like to run your quiz in-person. Note some students will not have phones - the shortened URL will make it easier for those without phones to access the quiz.
+
+* MS Forms can force students to log in using their UTORid (via Only people in University of Toronto can respond) so all responses are identifiable - this is a requirement if you want to collect file uploads.
+* Distribute your quizzes by sharing the (optionally shortened) URL
+    * There **is** a feature to limit access to only named individuals, but the interface does not accept a list of student emails so we've found this to be impractical
+* Do not use the built-in email tool to distribute your quiz - use [a BCC email](https://support.microsoft.com/en-us/office/show-hide-and-view-the-bcc-blind-carbon-copy-field-in-outlook-for-windows-04304e27-63a2-4276-8884-5077fba0e229) instead - the built-in tool will expose email addresses to all recipients
+
 ### Grading
 
 Access the grading interface via 'View Responses'
@@ -93,5 +93,5 @@ You can choose between by-quiz and by-question grading by toggling between 'Peop
 ### Importing grades to Quercus
 There is no automated connection to get grades back to Quercus, you will have to import the grades manually (but [we](mailto:teachinglearning.artsci@utoronto.ca) can help with this). You can import grades using a [gradebook export/import process](https://q.utoronto.ca/courses/242937/pages/using-the-gradebook#importing-and-exporting-the-gradebook) in Quercus.
 
-#### Info
+### More Information and Support
 Contact [teachinglearning.artsci@utoronto.ca](mailto:teachinglearning.artsci@utoronto.ca) for additional help.
