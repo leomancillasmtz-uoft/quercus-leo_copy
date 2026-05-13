@@ -76,6 +76,13 @@ You can choose between by-quiz and by-question grading by toggling between 'Peop
 
 <div align="center"><img src ="image-14.png" alt="View responses button in MS Forms" width="100%"></div>
 
+#### File Upload Location
+
+If you used the File Upload question in your quiz, you can locate the files uploaded by students in your OneDrive under the Apps folder, in the **Apps -> Microsoft Forms [Quiz Name] subfolder**.
+
+
+<div align="center"><img src ="formsquizzesfiles.png" alt="View responses button in MS Forms" width="50%"></div>
+
 ### Importing grades to Quercus
 There is no automated connection to get grades back to Quercus, you will have to import the grades manually (but [we](mailto:teachinglearning.artsci@utoronto.ca) can help with this). You can import grades using a [gradebook export/import process](https://q.utoronto.ca/courses/242937/pages/using-the-gradebook#importing-and-exporting-the-gradebook) in Quercus.
 
