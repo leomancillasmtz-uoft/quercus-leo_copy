@@ -26,7 +26,21 @@ A&S Teaching & Learning (teachinglearning.artsci@utoronto.ca)
     * you can grade by-question or by-quiz
 
 ### Distribution
-* Quizzes can force students to log in using their UTORid so all responses are identifiable
+
+To distribute a quiz, click **Collect Repsonses** at the top of the interface.
+<div align="center"><img src="image-25.png" alt="Collect Responses button in MS Forms" width="15%"></div>
+
+>Do not distribute the long URL you see in your address bar while editing a quiz, it will not work for recipients.
+
+In the modal window that appears, you can optionally shorten URL (recommended) and **Copy link** for distribution:
+
+<div align="center"><img src="image-26.png" alt="Configure distribution parameters for an MS Forms Quiz" width="100%"></div>
+
+In this example, we're ensuring respondents are logged into with their UTORids and that only one response is accepted per recipient.
+
+You can also generate a QR code for the URL and download it if you'd like to run your quiz in-person. Note some students will not have phones - the shortened URL will make it easier for those without phones to access the quiz.
+
+* Quizzes can force students to log in using their UTORid (via Only people in University of Toronto can repsond) so all responses are identifiable
 * Distribute your quizzes by sharing the (optionally shortened) URL
     * There **is** a feature to limit access to only named individuals, but the interface does not accept a list of student emails so we've found this to be impractical
 * Do not use the built-in email tool to distribute your quiz - use [a BCC email](https://support.microsoft.com/en-us/office/show-hide-and-view-the-bcc-blind-carbon-copy-field-in-outlook-for-windows-04304e27-63a2-4276-8884-5077fba0e229) instead - the built-in tool will expose email addresses to all recipients
