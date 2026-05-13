@@ -57,7 +57,7 @@ Unchecking "Accept responses" allows you to close the quiz manually. If the time
 ### Distribution
 
 To distribute a quiz, click **Collect Responses** at the top of the interface.
-<div align="center"><img src="image-25.png" alt="Collect Responses button in MS Forms" width="15%"></div>
+<div align="center"><img src="image-25.png" alt="Collect Responses button in MS Forms" width="25%"></div>
 
 >Do not distribute the long URL you see in your address bar while editing a quiz, it will not work for recipients.
 
