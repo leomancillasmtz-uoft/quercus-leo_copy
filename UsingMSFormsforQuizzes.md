@@ -46,7 +46,7 @@ The key to a successful quiz on Forms is to configure the settings to mimic Quer
 
 ### Response Settings
 
-Unchecking **Accept responses** allows you to close the quiz manually. If the timer elapses, in-progress responses are auto-submitted. We also allow students to save their responses for their review.
+Unchecking **Accept responses** allows you to close the quiz manually. If the timer elapses, in-progress responses are autosubmitted. We also allow students to save their responses for their review.
 
 <div align="center"><img src="image-10.png" alt="Only people in University of Toronto can respond" width="45%"></div>
 
